@@ -1,11 +1,11 @@
 module.exports = {
-  title: "Vuepress",
-  description: "This is a Zeit Now 2.0 example",
+  title: "Parken Consulting, India",
+  description: "SEO, Database, MySQL, Email, Identity Software & Business Consulting from India",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "Config Page", link: "/config" }
+      { text: "SEO", link: "/guide/" },
+      { text: "Database", link: "/config" }
     ]
   },
   dest: "public"
