@@ -8,5 +8,6 @@ module.exports = {
       { text: "Database", link: "/config" }
     ]
   },
-  dest: "public"
+  dest: "public",
+  plugins: ['social-share'],
 };
