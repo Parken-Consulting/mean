@@ -1,1 +1,1 @@
-# Example Guide Section
+# MEAN Guide

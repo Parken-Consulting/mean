@@ -1,4 +1,4 @@
-# Your Technical Artchitect, Now Online
+# Your NodeJS, AngularJS Artchitect, Now Online
 
 <br>
 <br>

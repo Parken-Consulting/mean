@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Parken Consulting, India",
-  description: "SEO, Database, MySQL, Email, Identity Software & Business Consulting from India",
+  title: "MEAN Stack at Scale - Parken Consulting, India",
+  description: "MongoDB/MySQL, NodeJS, AngularJS Consulting from India",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
